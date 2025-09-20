@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "EisenklamHeadshot.png"
+  avatar           : "EisenklamHeadshot.jpg"
   name             : "Abby Eisenklam"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science focusing on scheduling and resource allocation for real-time, cyber-physical, and distributed systems"
