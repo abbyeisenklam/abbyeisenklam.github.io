@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /non-menu-page/
 title: "Page not in menu"
 author_profile: false
@@ -13,4 +13,4 @@ Heading 1
 ======
 
 Heading 2
-======
+====== -->
