@@ -2,10 +2,12 @@
 title: "Job-Level Batching for Software Defined Radio on Multi-core"
 collection: publications
 category: conferences
-permalink: /publication/rtss-24-batching
+permalink: # None
 excerpt: # None
 date: Dec. 2024
+authors: "Abigail Eisenklam, Will Hedgecock, Bryan C. Ward"
 venue: 'IEEE Real-Time Systems Symposium (RTSS)'
+location: 'York, UK'
 paperurl: '/files/rtss-24-batching.pdf'
 slidesurl: '/files/rtss-24-batching-slides.pdf'
 citation: # None
