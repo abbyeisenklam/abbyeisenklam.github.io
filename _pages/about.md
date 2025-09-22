@@ -22,7 +22,7 @@ Honors & Awards
 
 Experience
 ======
-* Undergraduate Researcher, Vanderbilt Institute for Softawre Integrated Systems, Summer 2023
+* Undergraduate Researcher, Vanderbilt Institute for Software Integrated Systems, Summer 2023
 * Communications and Signal Processing Intern, MITRE, Summer 2023
 * Research Intern → Student Technical Assistant, MIT Lincoln Laboratory, August-December 2022
 * Engineering Intern, Qorvo Inc., Summer 2021
