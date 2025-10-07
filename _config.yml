@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Abby Eisenklam"
 title_separator          : "-"
-name                     : &name "Abigail (Abby) Eisenklam"
+name                     : &name "Abby Eisenklam"
 description              : &description "Abby Eisenklam's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://abbyeisenklam.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "EisenklamHeadshot.JPG"
-  name             : "Abby Eisenklam"
+  name             : "Abigail (Abby) Eisenklam"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science focusing on scheduling and resource allocation for real-time, cyber-physical, and distributed systems"
   location         : "Philadelphia, USA"
