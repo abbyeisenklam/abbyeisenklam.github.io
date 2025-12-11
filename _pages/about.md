@@ -18,7 +18,7 @@ Honors & Awards
 ======
 * Best Student Paper, IEEE Real-Time Systems Symposium (RTSS), 2024
 * Best Presentation, IEEE Real-Time Systems Symposium (RTSS), 2024
-* Graduate Research Fellow (GRFP), National Science Foundation, 2024
+* NSF Graduate Research Fellowship (GRFP), National Science Foundation, 2024
 
 Experience
 ======
