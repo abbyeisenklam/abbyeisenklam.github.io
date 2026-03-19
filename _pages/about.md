@@ -12,9 +12,9 @@ I am a second-year Computer Science PhD student at the University of Pennsylvani
 Publications
 ======
 * **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
-Georgiy A. Bondar*, Abigail Eisenklam*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
+Georgiy A. Bondar\*, Abigail Eisenklam\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
 _IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026_ <br>
-*denotes equal contribution
+\*denotes equal contribution
 * **Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore** <br>
 Abigail Eisenklam, Robert Gifford, Georgiy A. Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder <br>
 _ACM SIGBED International Conference on Embedded Software (EMSOFT), Taipei, Taiwan, September 2025_
