@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Computer Science PhD student at the University of Pennsylvania, where I am advised by [Professor Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research focuses on scheduling and resource allocation for real-time, cyber-physical, and distributed systems. I graduated with Honors in Computer Science and a second major in Applied Mathematics from Vanderbilt University, where I was advised by [Professor Bryan C. Ward](https://my.vanderbilt.edu/bryancward/).
+I am a second-year Computer Science PhD student at the University of Pennsylvania, where I am advised by [Professor Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research, which is partially supported by the NSF GRFP, focuses on scheduling and resource allocation for real-time, cyber-physical, and distributed systems. I graduated with Honors in Computer Science and a second major in Applied Mathematics from Vanderbilt University, where I was advised by [Professor Bryan C. Ward](https://my.vanderbilt.edu/bryancward/).
 
 Publications
 ======
