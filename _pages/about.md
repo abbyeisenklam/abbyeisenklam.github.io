@@ -9,16 +9,29 @@ redirect_from:
 
 I am a second-year Computer Science PhD student at the University of Pennsylvania. I work on scheduling and resource allocation for real-time, cyber-physical, and distributed systems under the advisory of Professor Linh Thi Xuan Phan. I did my undergraduate degree at Vanderbilt University where I studied Computer Science and Applied Math and was advised by Professor Bryan C. Ward.
 
-Teaching
+Publications
 ======
-* TA, CIS 5050 Software Systems, Univeristy of Pennsylvania (Spring 2025, Fall 2025)
-* TA, ENGM 2440 Engineering Management, Vanderbilt Univeristy (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2023, Spring 2024)
+* **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
+Georgiy A. Bondar*, Abigail Eisenklam*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
+_IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026_ <br>
+*denotes equal contribution
+* **Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore** <br>
+Abigail Eisenklam, Robert Gifford, Georgiy A. Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder <br>
+_ACM SIGBED International Conference on Embedded Software (EMSOFT), Taipei, Taiwan, September 2025_
+* **Job-Level Batching for Software Defined Radio on Multi-core**  <br>
+Abigail Eisenklam, Will Hedgecock, Bryan C. Ward  <br>
+_IEEE Real-Time Systems Symposium (RTSS), York, UK, December 2024_
 
 Honors & Awards
 ======
 * Best Student Paper, IEEE Real-Time Systems Symposium (RTSS), 2024
 * Best Presentation, IEEE Real-Time Systems Symposium (RTSS), 2024
 * NSF Graduate Research Fellowship (GRFP), National Science Foundation, 2024
+
+Teaching
+======
+* TA, CIS 5050 Software Systems, Univeristy of Pennsylvania (Spring 2025, Fall 2025)
+* TA, ENGM 2440 Engineering Management, Vanderbilt Univeristy (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2023, Spring 2024)
 
 Experience
 ======
