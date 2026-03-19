@@ -13,7 +13,7 @@ Publications
 ======
 * **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
 Georgiy A. Bondar\*, Abigail Eisenklam\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
-_IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026_ <br>
+_IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026 (to appear)_ <br>
 \*denotes equal contribution
 * **Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore** <br>
 Abigail Eisenklam, Robert Gifford, Georgiy A. Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder <br>
