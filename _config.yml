@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "EisenklamHeadshot.JPG"
-  name             : "Abigail (Abby) Eisenklam"
+  name             : "Abby Eisenklam"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science focusing on scheduling and resource allocation for real-time, cyber-physical, and distributed systems"
   location         : "Philadelphia, USA"
