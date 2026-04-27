@@ -11,6 +11,9 @@ I am a second-year Computer Science PhD student at the University of Pennsylvani
 
 Publications
 ======
+* **Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**  <br>
+**Abigail Eisenklam**, Carlos A. Montenegro G., Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G. Sanfelice  <br>
+_38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026 (to appear)_ <br>
 * **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
 Georgiy A. Bondar\*, **Abigail Eisenklam**\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
 _IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026 (to appear)_ <br>
@@ -30,8 +33,8 @@ Honors & Awards
 
 Teaching
 ======
-* TA, CIS 5050 Software Systems, Univeristy of Pennsylvania (Spring 2025, Fall 2025)
-* TA, ENGM 2440 Engineering Management, Vanderbilt Univeristy (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2023, Spring 2024)
+* Teaching Assistant, CIS 5050 Software Systems, Univeristy of Pennsylvania (Spring 2025, Fall 2025, Spring 2026)
+* Teaching Assistant, ENGM 2440 Engineering Management, Vanderbilt Univeristy (Spring 2021, Fall 2021, Spring 2022, Fall 2022, Fall 2023, Spring 2024)
 
 Experience
 ======
