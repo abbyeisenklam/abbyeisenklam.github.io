@@ -12,18 +12,19 @@ I am a second-year Computer Science PhD student at the University of Pennsylvani
 Publications
 ======
 * **Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**  <br>
-**Abigail Eisenklam**, Carlos A. Montenegro G., Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G. Sanfelice  <br>
+**Abigail Eisenklam**\*, Carlos A. Montenegro G.\*, Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G. Sanfelice  <br>
 _38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026 (to appear)_ <br>
 * **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
 Georgiy A. Bondar\*, **Abigail Eisenklam**\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
 _IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026 (to appear)_ <br>
-\*denotes equal contribution
 * [**Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore**](https://dl.acm.org/doi/10.1145/3761814) <br>
 **Abigail Eisenklam**, Robert Gifford, Georgiy A. Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder <br>
 _ACM SIGBED International Conference on Embedded Software (EMSOFT), Taipei, Taiwan, September 2025_
 * [**Job-Level Batching for Software Defined Radio on Multi-core**](https://ieeexplore.ieee.org/document/10844711)  <br>
 **Abigail Eisenklam**, Will Hedgecock, Bryan C. Ward  <br>
-_IEEE Real-Time Systems Symposium (RTSS), York, UK, December 2024_
+_IEEE Real-Time Systems Symposium (RTSS), York, UK, December 2024_ <br>
+<br>
+\*denotes equal contribution
 
 Honors & Awards
 ======
