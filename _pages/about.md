@@ -15,22 +15,22 @@ Publications
 * [**Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2026.17)  
   **Abigail Eisenklam**\*, Carlos A.&nbsp;Montenegro G.\*, Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G.&nbsp;Sanfelice  
   _38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026_  
-  <a href="/files/ecrts-26-mpora.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/ecrts-26-mpora-slides.pdf"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
+  <a href="/files/ecrts-26-mpora.pdf" class="no-underline"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/ecrts-26-mpora-slides.pdf" class="no-underline"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
 
 * [**Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**](https://ieeexplore.ieee.org/document/11558397)  
   Georgiy A.&nbsp;Bondar\*, **Abigail Eisenklam**\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  
   _IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026_  
-  <a href="/files/rtas-26-genprofiling.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/rtas-26-genprofiling-slides.pdf"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
+  <a href="/files/rtas-26-genprofiling.pdf" class="no-underline"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/rtas-26-genprofiling-slides.pdf" class="no-underline"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
 
 * [**Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore**](https://dl.acm.org/doi/10.1145/3761814)  
   **Abigail Eisenklam**, Robert Gifford, Georgiy A.&nbsp;Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  
   _ACM SIGBED International Conference on Embedded Software (EMSOFT), Taipei, Taiwan, September 2025_  
-  <a href="/files/emsoft-25-rasco.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/emsoft-25-rasco-slides.pdf"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
+  <a href="/files/emsoft-25-rasco.pdf" class="no-underline"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/emsoft-25-rasco-slides.pdf" class="no-underline"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
 
 * [**Job-Level Batching for Software Defined Radio on Multi-core**](https://ieeexplore.ieee.org/document/10844711)  
   **Abigail Eisenklam**, Will Hedgecock, Bryan C.&nbsp;Ward  
   _IEEE Real-Time Systems Symposium (RTSS), York, UK, December 2024_  
-  <a href="/files/rtss-24-batching.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/rtss-24-batching-slides.pdf"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
+  <a href="/files/rtss-24-batching.pdf" class="no-underline"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/rtss-24-batching-slides.pdf" class="no-underline"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
 
 \*denotes equal contribution
 

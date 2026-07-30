@@ -83,6 +83,14 @@
     }
   }
 
+  a.no-underline {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
