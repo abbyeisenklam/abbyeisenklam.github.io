@@ -11,12 +11,12 @@ I am a second-year Computer Science PhD student at the University of Pennsylvani
 
 Publications
 ======
-* **Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**  <br>
+* [**Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2026.17)  <br>
 **Abigail Eisenklam**\*, Carlos A. Montenegro G.\*, Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G. Sanfelice  <br>
-_38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026 (to appear)_ <br>
-* **Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**  <br>
+_38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026_ <br>
+* [**Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**](https://ieeexplore.ieee.org/document/11558397)  <br>
 Georgiy A. Bondar\*, **Abigail Eisenklam**\*, Yifan Cai, Robert Gifford, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder  <br>
-_IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026 (to appear)_ <br>
+_IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Saint Malo, France, May 2026_ <br>
 * [**Rasco: Resource Allocation and Scheduling Co-design for DAG Applications on Multicore**](https://dl.acm.org/doi/10.1145/3761814) <br>
 **Abigail Eisenklam**, Robert Gifford, Georgiy A. Bondar, Yifan Cai, Tushar Sial, Linh Thi Xuan Phan, Abhishek Halder <br>
 _ACM SIGBED International Conference on Embedded Software (EMSOFT), Taipei, Taiwan, September 2025_
