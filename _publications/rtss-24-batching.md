@@ -11,4 +11,5 @@ location: 'York, UK'
 paperurl: '/files/rtss-24-batching.pdf'
 slidesurl: '/files/rtss-24-batching-slides.pdf'
 citation: # None
+published: false
 ---
