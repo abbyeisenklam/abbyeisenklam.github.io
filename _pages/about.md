@@ -14,7 +14,7 @@ Publications
 
 * [**Uncertainty-Aware Resource Allocation for Multi-Path Programs with In-Kernel Predictions**](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECRTS.2026.17)  
   **Abigail Eisenklam**\*, Carlos A.&nbsp;Montenegro G.\*, Xian Wang, Yifan Cai, Robert Gifford, Linh Thi Xuan Phan, Ricardo G.&nbsp;Sanfelice  
-  _38th European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026_  
+  _European Conference on Real-Time Systems (ECRTS), Lund, Sweden, July 2026_  
   <a href="/files/ecrts-26-mpora.pdf" class="no-underline"><i class="fas fa-file-pdf" aria-hidden="true"></i> Paper</a>&nbsp;&nbsp;<a href="/files/ecrts-26-mpora-slides.pdf" class="no-underline"><i class="fas fa-chalkboard-teacher" aria-hidden="true"></i> Slides</a>
 
 * [**Generative Profiling for Soft Real-Time Systems and its Applications to Resource Allocation**](https://ieeexplore.ieee.org/document/11558397)  
