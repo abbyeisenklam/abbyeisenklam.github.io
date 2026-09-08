@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Computer Science PhD student at the University of Pennsylvania, where I am advised by [Professor Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research, which is partially supported by the NSF GRFP, focuses on scheduling and resource allocation for real-time, cyber-physical, and distributed systems. In 2024, I graduated with Honors in Computer Science and a second major in Applied Mathematics from Vanderbilt University, where I was advised by [Professor Bryan C. Ward](https://my.vanderbilt.edu/bryancward/).
+I am a third-year Computer Science PhD student at the University of Pennsylvania, where I am advised by [Professor Linh Thi Xuan Phan](https://www.cis.upenn.edu/~linhphan/). My research, which is partially supported by the NSF GRFP, focuses on scheduling and resource allocation for real-time, cyber-physical, and distributed systems.
+
+To provide strong safety guarantees, these systems are often designed for the worst case scenario, leaving resources overprovisioned, energy wasted, and infrastructure underutilized. 
+
+Fortunately, machine learning and stochastic models offer a solution to this performance problem. They allow us to learn the behavior of complex systems and design them based on expected reality, not just the worst-case scenario. But when people's safety and quality of life depend on these systems, we cannot ignore the moments where the models get it wrong.
+
+My research therefore explores the following question: How do we design algorithms that provide strong performance when predictions are accurate, but guarantee safety when those predictions fail?
 
 Publications
 ======
