@@ -11,7 +11,7 @@ I am a third-year Computer Science PhD student at the University of Pennsylvania
 
 To provide strong safety guarantees, these systems are often designed for the worst case scenario, leaving resources overprovisioned, energy wasted, and infrastructure underutilized. 
 
-Fortunately, machine learning and stochastic models offer a solution to this performance problem. They allow us to learn the behavior of complex systems and design them based on expected reality, not just the worst-case scenario. But when people's safety and quality of life depend on these systems, we cannot ignore the moments where the models get it wrong.
+Fortunately, machine learning and stochastic models offer a solution to this performance problem. They allow us to learn the behavior of complex systems and design them based on expected reality, not just the worst-case scenario. But when people's safety and quality of life depend on these systems, we cannot ignore the fact that, sometimes, the models get it wrong.
 
 My research therefore explores the following question: **How do we design algorithms that improve performance when predictions are accurate, but guarantee safety when predictions fail?**
 
