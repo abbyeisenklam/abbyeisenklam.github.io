@@ -13,7 +13,7 @@ To provide strong safety guarantees, these systems are often designed for the wo
 
 Fortunately, machine learning and stochastic models offer a solution to this performance problem. They allow us to learn the behavior of complex systems and design them based on predicted reality, not just the worst-case scenario. But when people's safety and quality of life depend on these systems, we cannot ignore the fact that sometimes, the models get it wrong.
 
-My research therefore explores the following question: **How do we design algorithms that improve performance when predictions are accurate, but guarantee safety when predictions fail?**
+My research therefore explores the following question: **How do we design algorithms for scheduling and resource allocation that improve performance when predictions are accurate, but guarantee safety when predictions fail?**
 
 Publications
 ======
