@@ -30,6 +30,9 @@
 
   @include breakpoint($large) {
     @include span(3 of 12);
+    // drop the gutter so sidebar + .page (9 of 12) stay under 100% and the
+    // page float never wraps below the sidebar; .page's prefix keeps the gap
+    margin-right: 0;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
